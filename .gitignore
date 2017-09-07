@@ -1,4 +1,8 @@
+<<<<<<< .mine
 2323/springboot01_test/.settings
+=======
+/springboot01_test/.settings
+>>>>>>> .theirs
 target
 *.project
 *.classpath
